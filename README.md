@@ -1,7 +1,7 @@
 # Session 4 - Debugging: DevTools & VS Code
 
 ## 📋 Tasks
-- Use breakpoints to pause and inspect code execution.
+- Use breakpoints to pause and inspect code execution
 - Use watch expressions to monitor variable values.
 - Navigate the call stack to trace function calls.
 - Practice using source maps (optional/later).
